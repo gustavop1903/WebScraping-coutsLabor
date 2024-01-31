@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+2captcha-python = "*"
+selenium = "==4.8.2"
+weasyprint = "*"
+python-dotenv = "*"
+pyppeteer = "*"
+bs4 = "*"
+pdfkit = "*"
+munch = "*"
+pypdf2 = "*"
+pytz = "*"
+
+[dev-packages]
+
+[requires]
+#python_version = "3.10"

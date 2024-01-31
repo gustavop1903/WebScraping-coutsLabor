@@ -1,0 +1,44 @@
+[
+    {   "company_name": "Liq corp SA", 
+        "cnpj": "67.313.221/0001-90"
+    },
+    
+    {
+        "Empresa": "Banco BMG",
+        "CNPJ": "61186680000174"
+    },
+    {
+        "Empresa": "Banco Fantasma",
+        "CNPJ": "07005000741044"
+    },
+
+    {
+        "Empresa": "Telefônica Brasil Sa",
+        "CNPJ": "02558157000162"
+    },
+    {
+        "Empresa": "Facebook Brasil",
+        "CNPJ": "13347016000117"
+    },
+    {
+        "Empresa": "Panteu Tecnologia em Seguros LTDA",
+        "CNPJ": "42827479000184"
+    },
+    {
+        "Empresa": "Sony Brasil LTDA",
+        "CNPJ": "43447044000410"
+    },
+    {
+        "Empresa": "Porto Seguro CIA de Seguros Gerais",
+        "CNPJ": "61198164000160"
+    },
+    {
+        "Empresa": "Claro S.A.",
+        "CNPJ": "40432544000147"
+    },
+    {
+        "Empresa": "Itau Unibanco S.A.",
+        "CNPJ": "60701190000104"
+    }
+
+]
